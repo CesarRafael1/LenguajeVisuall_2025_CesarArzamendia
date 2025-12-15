@@ -1,0 +1,12 @@
+🛒 PRODUCTOS
+Código	Nombre	Precio
+----------------------------------------
+1	Windows10	$150000.00
+2	WindowsXP	$150000.00
+3	Windows10	$100000.00
+
+👥 CLIENTES
+ID	Nombre	Email
+----------------------------------------
+1	Mel	m@gmail.com
+3	Michael	mich@gmail.com
